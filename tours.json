@@ -1,0 +1,14 @@
+{
+    "tour_1": {
+        "titel": "Energie-Erzeuger-Tour", 
+        "teaser": "Bla Bli Blo",
+        "beschreibungstext": "Bla Bli Blo Bla Blo",
+        "bild_url": "https://example.com/bild.jpg"
+    },
+    "tour_2": {
+        "titel": "Revitalisierungs-Tour", 
+        "teaser": "Bla Bli Blo",
+        "beschreibungstext": "Bla Bli Blo Bla Blo",
+        "bild_url": "https://example.com/bild_2.jpg"
+    }
+}
